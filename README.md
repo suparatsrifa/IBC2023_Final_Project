@@ -20,8 +20,8 @@ Inspired by “Build a Raffle App With Solidity and NextJS: Code Along” *[Yout
 ## Quickstart
 
 ```
-git clone https://github.com/suparatsrifa/IBC2023_Group_Project
-cd IBC2023_Group_Project
+git clone https://github.com/suparatsrifa/IBC2023_Final_Project
+cd IBC2023_Final_Project
 yarn
 yarn dev
 ```
