@@ -36,7 +36,7 @@ yarn dev
 
 3. Follow this [instruction from Chainlink's doc](https://docs.chain.link/vrf/v2/subscription/examples/get-a-random-number/) to add contract consumer
 
-4. Top up "LINK" token to contract (the token cen be requested from this [link](https://faucets.chain.link/))
+4. Top up "LINK" token to contract (the token can be requested from this [link](https://faucets.chain.link/))
 
 3. Replace contract address in /components/RaffleEntrance.js
 ![ReplaceAddress](img/ibc_fix_contract_address.png)
