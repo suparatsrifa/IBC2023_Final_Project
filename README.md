@@ -1,4 +1,4 @@
-# IBC 2023 Final Project: Decentralized Raffle System using Verifiable Random Function
+# Skoltech IBC 2023 Final Project: Decentralized Raffle System using Verifiable Random Function
 Inspired by “Build a Raffle App With Solidity and NextJS: Code Along” *[Youtube](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=59647s)* video tutorial provided by Patrick Collins from Chainlink
 
 ![Gui](img/ibc_gui.png)
@@ -60,7 +60,11 @@ presentation materials
 - RaffleVRF contract address link: [https://sepolia.etherscan.io/address/0x9f1d26de9ad49f261d2b6592e7397433f66732cc](https://sepolia.etherscan.io/address/0x9f1d26de9ad49f261d2b6592e7397433f66732cc)
 
 
+## Members
 
+- Waralak Pariwatphan, MSc-2 Data Science at Skoltech
+- Sudarut Kasemsuk, MSc-2 Data Science at Skoltech 
+- Suparat Srifa, MSc-2 Data Science at Skoltech
 
 
 
